@@ -1,4 +1,4 @@
-### Hi Welcome to my GitHub 👋
+### Hey 👋, Welcome to my GitHub
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imwood04" alt="imwood04" /></a> </p>
 <!--
 **imwood04/imwood04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
